@@ -1,8 +1,8 @@
 ## Requirements
 
-[download and install this font](https://github.com/tonsky/FiraCode)
+[Download and install this font](https://github.com/tonsky/FiraCode)
 
-[Download this Notepad++ Theme](https://raw.githubusercontent.com/Codextor/npp-mariana-theme/master/Mariana.xml)
+[Download and install this Notepad++ Theme](https://raw.githubusercontent.com/Codextor/npp-mariana-theme/master/Mariana.xml)
 
 ## Installation
 
