@@ -39,3 +39,7 @@ For a better experience, using the following settings is recommended
 
 - **Smooth font** : Enable
 `Settings -> Preferences -> Editing`
+
+# todo
+
+1. look for more keywords and settings.
