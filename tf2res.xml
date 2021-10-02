@@ -5,11 +5,11 @@
             <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
         </Settings>
         <KeywordLists>
-            <Keywords name="Comments">00// 01 02 03 04</Keywords>
+            <Keywords name="Comments">00// 01 02 03&quot;base/ 04&quot;</Keywords>
             <Keywords name="Numbers, prefix1">c- c f p o r</Keywords>
-            <Keywords name="Numbers, prefix2">cs cs- r- rs- rs1-</Keywords>
-            <Keywords name="Numbers, extras1"></Keywords>
-            <Keywords name="Numbers, extras2"></Keywords>
+            <Keywords name="Numbers, prefix2">cs r- rs- rs1- c</Keywords>
+            <Keywords name="Numbers, extras1">- +</Keywords>
+            <Keywords name="Numbers, extras2">+</Keywords>
             <Keywords name="Numbers, suffix1"></Keywords>
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
@@ -24,10 +24,10 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">xpos &#x000D;&#x000A;ypos &#x000D;&#x000A;zpos &#x000D;&#x000A;wide &#x000D;&#x000A;tall &#x000D;&#x000A;labeltext&#x000D;&#x000A;textAlignment</Keywords>
+            <Keywords name="Keywords1">xpos &#x000D;&#x000A;ypos &#x000D;&#x000A;zpos &#x000D;&#x000A;wide &#x000D;&#x000A;tall &#x000D;&#x000A;labeltext&#x000D;&#x000A;textAlignment&#x000D;&#x000A;color</Keywords>
             <Keywords name="Keywords2">visible &#x000D;&#x000A;enabled &#x000D;&#x000A;font &#x000D;&#x000A;image&#x000D;&#x000A;command&#x000D;&#x000A;drawtree&#x000D;&#x000A;reloadscheme&#x000D;&#x000A;hud_reloadscheme&#x000D;&#x000A;scaleimage&#x000D;&#x000A;textinsetx&#x000D;&#x000A;textinsety&#x000D;&#x000A;actionsignallevel&#x000D;&#x000A;proportionaltoparent&#x000D;&#x000A;allow_rot&#x000D;&#x000A;allow_manip&#x000D;&#x000A;wrap&#x000D;&#x000A;centerwrap</Keywords>
-            <Keywords name="Keywords3">controlname&#x000D;&#x000A;fieldname&#x000D;&#x000A;&#x000D;&#x000A;animate&#x000D;&#x000A;&#x000D;&#x000A;Ammo2Color SelectionAlpha&#x000D;&#x000A;event position size blur textcolor textscan&#x000D;&#x000A;linear accel deaccel spline pulse flicker gain bias &#x000D;&#x000A;RunEvent StopEvent StopAnimation StopPanelAnimations SetFont SetTexture SetString</Keywords>
-            <Keywords name="Keywords4">paintbackground&#x000D;&#x000A;PaintBackgroundType&#x000D;&#x000A;paintbackgroundtypes&#x000D;&#x000A;bgcolor&#x000D;&#x000A;bgcolor_override&#x000D;&#x000A;defaultfgcolor_override&#x000D;&#x000A;disabledfgColor_override&#x000D;&#x000A;selectedFgColor_override&#x000D;&#x000A;disabledbgColor_override&#x000D;&#x000A;depressedfgColor_override&#x000D;&#x000A;depressedBgColor_override&#x000D;&#x000A;selectedBgColor_override&#x000D;&#x000A;armedfgcolor_override&#x000D;&#x000A;defaultbgcolor_override&#x000D;&#x000A;armedbgcolor_override&#x000D;&#x000A;fgcolor&#x000D;&#x000A;fgcolor_override&#x000D;&#x000A;selectionColor_override&#x000D;&#x000A;selectionTextColor_override&#x000D;&#x000A;fillcolor&#x000D;&#x000A;drawcolor&#x000D;&#x000A;image_default&#x000D;&#x000A;image_armed&#x000D;&#x000A;image_selectedcolor&#x000D;&#x000A;image_drawcolor&#x000D;&#x000A;image_armedcolor&#x000D;&#x000A;alpha</Keywords>
+            <Keywords name="Keywords3">controlname&#x000D;&#x000A;fieldname&#x000D;&#x000A;&#x000D;&#x000A;scheme basesettings borders label button replaybrowser econ fonts Colors&#x000D;&#x000A;&#x000D;&#x000A;animate&#x000D;&#x000A;&#x000D;&#x000A;Ammo2Color SelectionAlpha&#x000D;&#x000A;event position size blur textcolor textscan&#x000D;&#x000A;linear accel deaccel spline pulse flicker gain bias &#x000D;&#x000A;RunEvent StopEvent StopAnimation StopPanelAnimations SetFont SetTexture SetString</Keywords>
+            <Keywords name="Keywords4">paintbackground&#x000D;&#x000A;PaintBackgroundType&#x000D;&#x000A;paintbackgroundtypes&#x000D;&#x000A;TextDullColor DisabledFgColor2 DepressedTextColor ArmedBgColor DepressedBgColor PresetDefaultColorBg PresetArmedColorBg SelectedBgColor PresetDepressedColorBg&#x000D;&#x000A;bgcolor&#x000D;&#x000A;bgcolor_override&#x000D;&#x000A;defaultfgcolor_override&#x000D;&#x000A;disabledfgColor_override&#x000D;&#x000A;selectedFgColor_override&#x000D;&#x000A;disabledbgColor_override&#x000D;&#x000A;depressedfgColor_override&#x000D;&#x000A;depressedBgColor_override&#x000D;&#x000A;selectedBgColor_override&#x000D;&#x000A;armedfgcolor_override&#x000D;&#x000A;defaultbgcolor_override&#x000D;&#x000A;armedbgcolor_override&#x000D;&#x000A;fgcolor&#x000D;&#x000A;fgcolor_override&#x000D;&#x000A;selectionColor_override&#x000D;&#x000A;selectionTextColor_override&#x000D;&#x000A;fillcolor&#x000D;&#x000A;drawcolor&#x000D;&#x000A;image_default&#x000D;&#x000A;image_armed&#x000D;&#x000A;image_selectedcolor&#x000D;&#x000A;image_drawcolor&#x000D;&#x000A;image_armedcolor&#x000D;&#x000A;alpha</Keywords>
             <Keywords name="Keywords5">paintborder&#x000D;&#x000A;border&#x000D;&#x000A;border_default&#x000D;&#x000A;border_armed&#x000D;&#x000A;</Keywords>
             <Keywords name="Keywords6">pin_to_sibling&#x000D;&#x000A;pin_corner_to_sibling&#x000D;&#x000A;pin_to_sibling_corner&#x000D;&#x000A;pin_topleft&#x000D;&#x000A;pin_topright&#x000D;&#x000A;pin_bottomleft&#x000D;&#x000A;pin_bottomright&#x000D;&#x000A;pin_center_left&#x000D;&#x000A;pin_center_top&#x000D;&#x000A;pin_center_right&#x000D;&#x000A;pin_center_bottom&#x000D;&#x000A;north north-west north-east&#x000D;&#x000A;west&#x000D;&#x000A;south south-west south-east&#x000D;&#x000A;east&#x000D;&#x000A;center&#x000D;&#x000A;left right top bottom</Keywords>
             <Keywords name="Keywords7">CTFImagePanel&#x000D;&#x000A;ceximagebutton&#x000D;&#x000A;cexbutton&#x000D;&#x000A;cexlabel&#x000D;&#x000A;combobox&#x000D;&#x000A;checkbutton&#x000D;&#x000A;cexplanationpopup&#x000D;&#x000A;editablepanel&#x000D;&#x000A;imagepanel&#x000D;&#x000A;subimage</Keywords>
@@ -36,7 +36,7 @@
         </KeywordLists>
         <Styles>
             <WordsStyle name="DEFAULT" fgColor="808080" bgColor="FFFFFF" colorStyle="1" fontName="" fontStyle="1" fontSize="10" nesting="0" />
-            <WordsStyle name="COMMENTS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="80FFFF" bgColor="FFFFFF" colorStyle="1" fontName="" fontStyle="1" nesting="0" />
             <WordsStyle name="LINE COMMENTS" fgColor="6272A4" bgColor="FFFFFF" colorStyle="1" fontName="" fontStyle="1" nesting="0" />
             <WordsStyle name="NUMBERS" fgColor="00FFFF" bgColor="FFFFFF" colorStyle="1" fontName="" fontStyle="1" nesting="0" />
             <WordsStyle name="KEYWORDS1" fgColor="00FFFF" bgColor="FFFFFF" colorStyle="1" fontName="" fontStyle="1" nesting="0" />
